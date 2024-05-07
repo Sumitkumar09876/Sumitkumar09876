@@ -1,4 +1,4 @@
-# Sumit Kumar - Android Developer 👨‍💻
+# Sumit Kumar - Machine Learning Engineer 👨‍💻
 
 ## About Me
 
