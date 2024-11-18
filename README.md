@@ -3,6 +3,17 @@
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
+### 🔭 Featured Projects
+
+- [Real-Time Anomaly Detection](https://github.com/Sumitkumar09876/Real-Time-Anamoly-Detection-in-Cloud-Server)  
+  A machine learning project for identifying anomalies in real-time using advanced AI techniques.
+
+- [Movie Recommendation System](https://github.com/Sumitkumar09876/movies-recommender-system.git)  
+  This Movie Recommendation System is built using Python and deployed with Streamlit. It recommends similar movies based on the input movie provided by the user.
+
+- [Califronia House Prediction System](https://github.com/Sumitkumar09876/California-Housing-Price-Prediction-System.git)  
+  The goal of this project is to develop a model that can accurately predict the median house prices based on various features such as total rooms, population, and others.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-8bab52205) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SUMIT-THUNDAROk-KUMAR) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SnooStories8736) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26692221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SUMITKU67012385) 
