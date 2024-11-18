@@ -6,13 +6,17 @@
 ### 🔭 Featured Projects
 
 - [Real-Time Anomaly Detection](https://github.com/Sumitkumar09876/Real-Time-Anamoly-Detection-in-Cloud-Server)  
+  ![Anomaly Detection Animation](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)  
   A machine learning project for identifying anomalies in real-time using advanced AI techniques.
 
 - [Movie Recommendation System](https://github.com/Sumitkumar09876/movies-recommender-system.git)  
+  ![Movie Recommendation Animation](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)  
   This Movie Recommendation System is built using Python and deployed with Streamlit. It recommends similar movies based on the input movie provided by the user.
 
-- [Califronia House Prediction System](https://github.com/Sumitkumar09876/California-Housing-Price-Prediction-System.git)  
+- [California House Prediction System](https://github.com/Sumitkumar09876/California-Housing-Price-Prediction-System.git)  
+  ![Housing Prediction Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
   The goal of this project is to develop a model that can accurately predict the median house prices based on various features such as total rooms, population, and others.
+
 
 
 ## 🌐 Socials:
