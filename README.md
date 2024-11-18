@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Real-Time Anomaly Detection as part of my AI & ML internship at YBI Foundation.<br>👯 I’m looking to collaborate on AI/ML projects related to anomaly detection, data visualization, or automation.<br>🤝 I’m looking for help with optimizing machine learning models for real-time performance.<br>🌱 I’m currently learning Cloud Computing, Python for Data Science, and advanced Machine Learning techniques.<br>💬 Ask me about AI, Python programming, software testing, or big data concepts.<br>⚡ Fun fact: I like Hulk more than Thor!
 
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-kumar-8bab52205) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/SUMIT-THUNDAROk-KUMAR) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SnooStories8736) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26692221) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@SUMITKU67012385) 
